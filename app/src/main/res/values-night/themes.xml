@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PONG" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#DFDFDF</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#DFDFDF</item>
+        <!-- Customize your theme here. -->
+        <item name="buttonTint">@null</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+    </style>
+</resources>
